@@ -28,7 +28,7 @@ The analysis covers a 12-month period, investigating SLA compliance, ticket esca
 
 ## Recommendations
 | Area | Recommendation |
-|:---|:---|
+
 | SLA Compliance | Conduct workshops on medium/high ticket handling. |
 | Triage Process | Implement smarter triage procedures to prioritize correctly. |
 | Technician Upskilling | Provide targeted training to lower-performing technicians. |
