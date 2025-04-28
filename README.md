@@ -41,6 +41,12 @@ The analysis covers a 12-month period, investigating SLA compliance, ticket esca
 - Retail industry SLA breach reduction by **20%** within 6 months.
 - Client satisfaction rating increase by **5%** within 9 months.
 
+## Visuals
+![2025-04-27 (2)](https://github.com/user-attachments/assets/af397963-55db-49e1-b475-0c104103f56b)
+![2025-04-27 (4)](https://github.com/user-attachments/assets/9f5b45e3-f017-4a1f-a228-0d3a36bcc813)
+![2025-04-27 (6)](https://github.com/user-attachments/assets/6e1fd214-efa2-4675-bbd9-cdcd1169e782)
+
+
 ## 🏆 Project Impact
 By implementing the recommended strategies, the company can expect improvements in service delivery efficiency, customer satisfaction, and operational performance across industries and regions.
 
